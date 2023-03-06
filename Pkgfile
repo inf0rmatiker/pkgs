@@ -132,7 +132,7 @@ vars:
   musl_sha512: 9332f713d3eb7de4369bc0327d99252275ee52abf523ee34b894b24a387f67579787f7c72a46cf652e090cffdb0bc3719a4e7b84dca66890b6a37f12e8ad089c
 
   # renovate: datasource=github-releases depName=nvidia/open-gpu-kernel-modules
-  nvidia_driver_version: 525.89.02
+  nvidia_driver_version: 530.30.02
   nvidia_driver_sha256: 94cb615c82c120ab1e4f9be799d3a2234802fbed9340241d524665bc91de43a1
   nvidia_driver_sha512: 335f5f43eccc25b6b390bef18237cc9042f3c4edf2b759d3b99319c974bec4c4bfd360bed7b4ab2bbf7b48ce2769eb390c96f9ee5b5a7e91035cac56708ae339
 
